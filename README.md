@@ -51,9 +51,9 @@ python-study-group/
 │   ├── notes.md           # 本週筆記
 │   └── exercises.md       # 練習題
 ├── contributors/          # 成員個人筆記
-│   ├── alice_notes.md
-│   ├── bob_week2.ipynb
-├── study_plan_10weeks.md  # 十週進度表
+│   ├── Tz_notes.md
+│   └── Woooody_notes.md
+├── study_plan.md          # 進度表
 ├── CONTRIBUTING.md        # 貢獻說明
 └── README.md              # 專案介紹（本檔案）
 ```
