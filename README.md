@@ -47,11 +47,9 @@
 
 ```
 python-study-group/
-├── week_01_basics/        # 每週主題資料夾
-│   ├── notes.md           # 本週筆記
-│   └── exercises.md       # 練習題
-├── contributors/          # 成員個人筆記
-│   ├── Tz_notes.md
+├── week_01_basics/        # 每週主題資料夾  
+│   ├── Tz_notes.md        # 成員每週筆記 
+│   ├── Ash_notes.md
 │   └── Woooody_notes.md
 ├── study_plan.md          # 進度表
 ├── CONTRIBUTING.md        # 貢獻說明
