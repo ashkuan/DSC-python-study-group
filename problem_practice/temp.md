@@ -7,3 +7,5 @@ hint: string, int, loop, bool
 1491. Average Salary Excluding the Minimum and Maximum Salary
 hint: int
 
+1295. Find Numbers with Even Number of Digits
+hint: int, string, 
